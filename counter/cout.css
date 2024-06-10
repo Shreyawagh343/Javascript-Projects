@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main {
+   height: 20rem;
+   width: 30%;
+   margin-left: 35rem;
+   margin-top: 17rem;
+
+}
+h1 {
+    font-size: 4rem;
+    text-align: center;
+}
+p {
+    text-align: center;
+    font-size: 5rem;
+}
+button {
+    height: 4rem;
+    width: 30%;
+    margin-left: 0.5rem;
+    font-size: 1rem;
+}

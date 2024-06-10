@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    text-align: center;
+    letter-spacing: 2px;
+    text-decoration: underline;
+    font-size: 30px;
+}
+main {
+    height: 15rem;
+    width: 50%;
+    margin: 12rem auto ;
+    text-align: center;
+}
+h2 {
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    height: 4rem;
+    line-height: 4rem;
+    border-radius: 15px;
+
+}
+button {
+    height: 3rem;
+    width: 20%;
+    color: black;
+    background: transparent;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 2rem;
+    font-size: 20px;
+}
