@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+   
+}
+body {
+    background-color: #edede9;
+}
+main {
+    height: 32rem;
+    width: 35%;
+    background-color: white;
+    margin-top: 8rem;
+    margin-left: 30rem;
+    border: none;
+    border-radius: 25px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align: center;
+}
+h1 {
+    font-size: 1.7rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 50px;
+}
+.input-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 4rem;
+}
+.input-1 h3 {
+    font-size: 1.2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #adb5bd;
+    font-weight: 500;
+    text-align: start;
+    margin-left: 3rem;
+}
+input {
+    border: none;
+    border-bottom: 1px solid #adb5bd;
+    margin-left: 3rem;
+    margin-top: 1rem;
+    padding: 1rem;
+}  
+.input-2 h3 {
+    font-size: 1.2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #adb5bd;
+    font-weight: 500;
+    text-align: start;
+    text-align: start;
+    margin-right: 13rem;
+}
+select {
+    border: none;
+    border-bottom: 1px solid #adb5bd;
+    padding: 1rem;
+    width: 80%;
+    margin-top: 1rem;
+}
+option {
+    height: 2rem;
+    font-size: 1rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h3 {
+    font-size: 1.2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #adb5bd;
+    font-weight: 500;
+    text-align: start;
+    margin-left: 3rem;
+}
+.result {
+    margin-top: 2rem;
+}
+.result h2 {
+    border: none;
+    border-bottom: 1px solid #adb5bd;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    padding: 1rem;
+    text-align: start;
+    width: 77%;
+}
+.result button {
+    width: 83%;
+    margin-top: 3rem;
+    padding: 17px;
+    border: none;
+    border-radius: 10px;
+    background-color: #4895ef;
+    font-size: 1.2rem;
+    color: white;
+}
